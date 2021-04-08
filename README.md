@@ -2,8 +2,8 @@
 
 DTMoney is a project to manager yourself finances
 
-![DTMoney Dashboard](https://ibb.co/n7K9g1D)
-![DTMoney](https://ibb.co/RpvG6d6)
+![DTMoney Dashboard](https://i.ibb.co/R3Jfv6C/dtmoney1.png)
+![DTMoney](https://i.ibb.co/4ZmwS3S/dtmoney2.png)
 
 
 ## :link: Technologies Used
